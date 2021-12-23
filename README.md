@@ -8,6 +8,7 @@
 pragma solidity ^0.8.0;
 
 contract hello {
+
     string public name = "Hello";
 
     function _updateName(string memory _newName) public {
