@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @demoner21
 - 👀 I’m currently interested in learning Solidity && Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +55 27 992 410 680 
 
 //SPDX-License-Identifier: MIT
