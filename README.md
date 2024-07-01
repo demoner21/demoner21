@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @demoner21
-- 👀 I’m currently interested in learning Solidity && Javascript
+- Python Dev
 
 ##
 <div align="center">
